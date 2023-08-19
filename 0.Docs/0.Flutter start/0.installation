@@ -1,0 +1,8 @@
+GO to flutter.com and install it.
+
+however you need to have git preinstall and to check you have -- in terminal "git"
+
+
+- to check if flutter go install write -- "which flutter" 
+if you write "flutter doctor" -- it will give list of things that we need to focus on and make sure to resolve all of them.
+
