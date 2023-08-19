@@ -1,0 +1,13 @@
+VSCode extension 
+- flutter
+- dart
+- vscode-icons
+- Error Lens - shows error on the side
+
+
+
+
+Tips
+Use refactor to add or remove a function or class or widget -- ctrl + shift + r (mac)
+use 'stfl' - just like 'rafce' but for Statefulwidget for Statelesswidget 'stl'
+

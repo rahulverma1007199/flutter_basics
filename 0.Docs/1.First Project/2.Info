@@ -1,0 +1,24 @@
+what is widget -- they are building block of the user interfaces, aka they describe how and what the UI should look like
+
+what is stack tree -- it shows in debug_console where it tell in which part of code we get the error.
+
+three type of widget
+1. Statelesswidget
+2. Statefulwidget
+3. InheritedWidget
+
+
+we have two design
+1. Material design by google
+2. Cupertino Design by apple 
+
+what is Scaffold -- ?
+What is BuildContext ?
+what is enum -- ? 
+
+3 type of modes -- debug, release and profile
+
+what is build function ?
+widget and their life cycle ? and what is initState, didChangeDependencies, didUpdateWidget, setState and dispose
+
+-- make the same version in Cupertino design
