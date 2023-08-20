@@ -1,0 +1,37 @@
+Shortcut
+
+command + . - for quick fix, like importing a variable
+command Shift P - add dependency - add here directly
+tip
+to see the amout taken use : const placeholder and add fallbackHeight
+to give a fix space between : const SizedBox(height:<number>)
+
+-something like below
+ body: const Column(children: [
+        // main card
+        Placeholder(
+          fallbackHeight: 250,
+        ),
+        SizedBox(
+          height: 20,
+        ),
+        //  weather forcast cards
+        Placeholder(
+          fallbackHeight: 150,
+        ),
+        SizedBox(
+          height: 20,
+        ),
+        //  additional info card
+        Placeholder(
+          fallbackHeight: 150,
+        )
+      ]),
+
+for elevation use card
+for scroll wrap with widget -- SingleChildScrollView
+
+if you clip with alt(option) then you can write multiple places at once.
+to show loading use -- progressIndicator and they are of 3 type
+
+use ListView.builder for lazy loading
